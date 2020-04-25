@@ -30,7 +30,7 @@
     "react-chartist": "0.13.1",
     "react-contenteditable": "^3.2.6",
     "react-csv": "^1.0.19",
-    "react-dom": "16.4.1",
+    "react-dom": "16.4.2",
     "react-fittext": "^1.0.0",
     "react-flickity-component": "^3.3.0",
     "react-google-maps": "9.4.5",
